@@ -19,14 +19,34 @@ body{
 }
 
 .logo{
-
-
 width: 10%;
 }
 .cabecario-lista-item{
 display:inline-block;
 margin: 0 16px;
 font-size:24px;
+}
+.programando
+{
+	width: 10%;	
+}
+.escola-titulo
+{color: white;}
+.escola-texto1
+{ color: white;}
+.escola-texto2
+{ color: white;}
+.escola
+{background-image:linear-gradient(#642020, #171717);
+display: flex;
+justify-content: center;
+aling-items: center;
+}
+.divisão{
+	width: 30%;
 
 }
+.escola-titulo{
+padding: 24px 0;
 
+}
