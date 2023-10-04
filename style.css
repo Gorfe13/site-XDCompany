@@ -15,7 +15,8 @@ padding:0;
 }
 
 body{
-	background-color: #171717;
+	background-color: #FFFAFA;
+	font-family: 'Young Serif', serif;
 }
 
 .logo{
@@ -37,7 +38,7 @@ font-size:24px;
 .escola-texto2
 { color: white;}
 .escola
-{background-image:linear-gradient(#642020, #171717);
+{background-image:linear-gradient(#642020, #FFFAFA);
 display: flex;
 justify-content: center;
 aling-items: center;
@@ -49,4 +50,30 @@ aling-items: center;
 .escola-titulo{
 padding: 24px 0;
 
+}
+
+.img_aluno{
+	width: 120px;
+	color: white;
+	
+}
+
+.icon{
+width: 24px;
+}
+
+.classe-div
+{
+	text-align: center;
+}
+.estudante-titulo
+{text-align: center;
+
+padding= 60px 0;
+}
+
+.todos-estudantes{
+	display: grid;
+	grid-template-columns: 20% 20% 20% 20%;
+	
 }
